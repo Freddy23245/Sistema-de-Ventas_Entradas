@@ -1,0 +1,165 @@
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Downloads\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\sm\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Downloads\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Logica.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Debug\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Debug\Sistemas de Entradas.vbproj.GenerateResource.Cache

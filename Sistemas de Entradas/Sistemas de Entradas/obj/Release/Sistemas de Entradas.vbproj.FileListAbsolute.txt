@@ -1,0 +1,553 @@
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Proyecto_Definitivo)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Capa_Logica.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Clientes.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CorreoElectronico.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Crear_Grupos.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.CrearEquipos.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Detalle_de_Venta.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Entradas.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Inicio.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Login.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Resources.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Reporte_de_Entrada.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Sedes.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Usuarios.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas_de_Entradas.Ventas.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\RdlCompile.compiled
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\bin\Release\Sistemas de Entradas.exe.config
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.exe
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.xml
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas de Entradas(final)\Sistemas de Entradas\Sistemas de Entradas\obj\Release\Sistemas de Entradas.pdb

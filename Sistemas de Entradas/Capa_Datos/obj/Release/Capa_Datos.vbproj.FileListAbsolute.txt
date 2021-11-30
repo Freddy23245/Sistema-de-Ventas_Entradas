@@ -1,0 +1,129 @@
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\InsertarPersonas\Proyeccto_Principal\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Documents\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto\Nueva carpeta\Copia de Seguridad(Sistema de Entradas)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Downloads\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\leonardoeac\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\todo\Copia de Seguridad(Modificado)\Entradas_Leo\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\EnriqueDavilas\Desktop\Proyecto_Principal(ultimo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Unico)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(Definitivo_2)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Proyecto_Principal(Leo)\Proyecto_Principal(Leo)\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\bin\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.Resources.resources
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.xml
+C:\Users\Cristian\Desktop\Sistemas de Entradas(final)\Sistemas de Entradas\Capa_Datos\obj\Release\Capa_Datos.pdb
